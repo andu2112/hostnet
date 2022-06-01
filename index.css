@@ -1,0 +1,14 @@
+body{
+   background-color: antiquewhite;
+}
+
+video{
+    border: 2em;
+    block-size: 10cm;
+    margin-right: 20cm;
+}
+
+.tenkai{
+    block-size: 20ch;
+    margin-top: right;
+}
